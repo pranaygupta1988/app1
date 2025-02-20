@@ -1,6 +1,6 @@
 This is code 1.
 This is line 2. ABCD
-First change by owner.
+First change by owner. EFGH
 First edit by collborator.
 Second change by owner.
 Second change by collaborator.
